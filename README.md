@@ -9,11 +9,5 @@ So we have decided to make a web app that will not only help to **find the most 
 - Live status of all the available facilities of the hospital.
 - Facilities feedback review system.
 
-### How to run it on Local System
-- Fork the repository
-- Open the command prompt in the folder where the project is saved
-- In command prompt type `yarn start`
-- Then go to your browser and search for `localhost:3000`
-
 Here is the link for the deployed site
-### [Click Here](https://handy-plus.web.app/)
+### [Click Here](https)
